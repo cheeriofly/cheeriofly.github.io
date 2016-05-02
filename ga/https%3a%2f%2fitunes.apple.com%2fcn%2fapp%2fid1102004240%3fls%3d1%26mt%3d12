@@ -1,1 +1,4 @@
-
+<script>
+  var url = "https://itunes.apple.com/app/id1102004240?ls=1&mt=12";
+  setTimeout(function(){window.location=url},100);
+</script>
